@@ -5,7 +5,7 @@ Repository INAPP che alimenta il National Data Catalog https://www.schema.gov.it
 │  │  │ 
 │  ├─ ...
 │  │  └─ notes.md
-├─ assets/ontologies/
+├─ assets
 │  ├─ contributions
 │  │   ├─ latest
 │  │   │   
@@ -14,8 +14,6 @@ Repository INAPP che alimenta il National Data Catalog https://www.schema.gov.it
 │  │   ├─ v{version}
 │  ├─ ...
 │  └─ notes.md
-├─ assets/schemas/
-│  ├─ ...
-│  └─ notes.md
-├─ README.md
+├─ 
+│  
 └─ publiccode.yaml
