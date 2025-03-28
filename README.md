@@ -13,10 +13,10 @@ I file presenti in questo repository sono organizzati secondo la seguente albera
 
 ```bash
 ┌─ assets/controlled-vocabularies/
-│  ├─ tipo_gestione_ricongiunzione
-│  │   ├─ latest
-│  │   │
-│  │   └─ v{version} 
+│  |
+│  ├─ latest
+│  │
+│  ├─ v{version} 
 │  ├─ ... 
 │  └─ notes.md
 ├─ README.md
