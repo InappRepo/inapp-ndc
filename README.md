@@ -2,9 +2,8 @@
 #Repository INAPP che alimenta il National Data Catalog https://www.schema.gov.it.
 
 # Asset per il catalogo nazionale della semantica dei dati
-Questo è il repository INPS per l'alimentazione del National Data Catalog (NDC): https://www.schema.gov.it/.
-Esso contiene l'ontologia di INPS che descrive il patrimonio informativo dell'ente relativamente al dominio di _riscatti ricongiunzioni e rendite_ e _lavoratore domestico_.
-
+Questo è il repository INAPP per l'alimentazione del National Data Catalog (NDC): https://www.schema.gov.it/.
+Esso contiene il vocabolario controllato ...Theasaurus... 
 Il catalogo nazionale della semantica dei dati, o NDC, consente:
 > "Ricerca e riuso di asset semantici, tra cui ontologie, schemi dati e vocabolari controllati per supportare lo sviluppo di API semanticamente e sintatticamente interoperabili"
 
