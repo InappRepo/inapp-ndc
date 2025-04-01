@@ -18,6 +18,7 @@ I file presenti in questo repository sono organizzati secondo la seguente albera
 │           ├── latest/
 │           ├── v{version}/
 │           └── notes.md
+├── scripts/
 ├── README.md
 └── publiccode.yaml
 ```
