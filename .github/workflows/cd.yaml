@@ -28,7 +28,7 @@ jobs:
         find ./assets/controlled-vocabularies/ -name "*.csv" -type f -print0 | xargs -0 /bin/rm -f
         find ./assets/controlled-vocabularies/ -name "*.json" -type f -print0 | xargs -0 /bin/rm -f
         find ./assets/controlled-vocabularies/ -name "datapackage.yaml" -type f -print0 | xargs -0 /bin/rm -f
-#        python ./scripts/frictionless_datapackage_csv.py
+        python ./scripts/frictionless_datapackage_csv.py
     # Commit and push all changed files.
     - name: GIT Commit Build Artifacts (coverage, dist, devdist, docs)
       # Only run on main branch push (e.g. after pull request merge).
