@@ -115,8 +115,8 @@ def to_csv(url, src_file):
     df.id = df.id.astype(str)
     if 'parent' in df.columns:
         df.parent = df.parent.astype(str)
-    if 'level' in df.columns:
-        df.level = df.level.astype(int)
+    #if 'level' in df.columns:
+    #    df.level = df.level.astype(int)
 
     df.to_csv(dest_csv, index=False, sep=",", header=True, quoting=csv.QUOTE_NONNUMERIC, quotechar='"')
 
