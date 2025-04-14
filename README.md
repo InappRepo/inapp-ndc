@@ -1,5 +1,4 @@
-# inapp-ndc
-#Repository INAPP che alimenta il National Data Catalog https://www.schema.gov.it.
+# Repository INAPP che alimenta il National Data Catalog https://www.schema.gov.it.
 
 # Asset per il catalogo nazionale della semantica dei dati
 Questo è il repository INAPP per l'alimentazione del National Data Catalog (NDC): https://www.schema.gov.it/.
