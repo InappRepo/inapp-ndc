@@ -29,7 +29,7 @@ _meta:
         level:
           type: integer
           format: int32
-        # deprecated:
+        #deprecated:
         #   type: boolean
         label_it:
           type: string
