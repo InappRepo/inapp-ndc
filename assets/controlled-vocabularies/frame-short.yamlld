@@ -82,8 +82,8 @@ skos:prefLabel:
   parent:
     "@id": skos:broader
     "@type": "@id"
-  level:
-    "@id": clvapit:hasRankOrder
+  #level:
+  #  "@id": clvapit:hasRankOrder
   #deprecated: {}
   #Localize labels. Order is relevant.
   label_it:
