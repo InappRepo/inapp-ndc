@@ -3120,7 +3120,8 @@
     "@type": "skos:Concept",
     "id": "19312",
     "parent": "https://w3id.org/italia/public-policies-analysis/controlled-vocabulary/data/thesaurus/concept/52",
-    "label_it": "Cambiamento demografico"
+    "label_it": "Cambiamento demografico",
+    "label_en": "Demographic change"
   },
   {
     "url": "https://w3id.org/italia/public-policies-analysis/controlled-vocabulary/data/thesaurus/concept/19356",
@@ -3492,6 +3493,7 @@
     "@type": "skos:Concept",
     "id": "19654",
     "parent": "https://w3id.org/italia/public-policies-analysis/controlled-vocabulary/data/thesaurus/concept/19502",
+    "label_en": "Social spending (Fonte: OECD)",
     "label_it": "Spesa sociale"
   },
   {
